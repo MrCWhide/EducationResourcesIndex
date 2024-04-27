@@ -83,3 +83,15 @@ for i in range(len(GDP)):
 # 输出
 print(f"ERI指数：", eri_list)
 #©Coded by Chen Huaide on 2024/4/16
+### 注意
+
+在使用时需要带入具体的各省份的数据列表。
+
+### 数据整合
+
+1. **GDP数据**：来自中经数据 [中经数据](https://wap.ceidata.cei.cn/)。
+2. **2022年各省学校资产情况**：来自国务院网站。
+3. **EB、TB等数据**：来自各省年度财政报告。
+4. **其他数据来源**：政府文件、国家统计局 [国家统计局](https://www.stats.gov.cn/gk/)。
+
+通过代入上述数据，您可以计算出各省不同学段的ERI指数。
