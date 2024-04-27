@@ -83,7 +83,7 @@ for i in range(len(GDP)):
 # 输出
 print(f"ERI指数：", eri_list)
 #©Coded by Chen Huaide on 2024/4/16
-```python
+```
 
 ### 注意
 
