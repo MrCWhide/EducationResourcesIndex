@@ -83,6 +83,8 @@ for i in range(len(GDP)):
 # 输出
 print(f"ERI指数：", eri_list)
 #©Coded by Chen Huaide on 2024/4/16
+```python
+
 ### 注意
 
 在使用时需要带入具体的各省份的数据列表。
